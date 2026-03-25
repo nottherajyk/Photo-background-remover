@@ -2,7 +2,7 @@
 
 A Python project that removes backgrounds from images using the `rembg` library.
 
-## Overview
+## Overview 
 
 This project uses the powerful `rembg` library to automatically detect and remove backgrounds from image files. It's useful for:
 - Creating transparent PNGs from regular photos
